@@ -1,0 +1,48 @@
+.space{
+    height: 35px;
+    width: 100%;
+    background-color: white;
+}
+.first{
+    height: 60px;
+    width: 100%;
+    background-color: white;
+}
+.title{
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.link{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    color: black;
+}
+.second{
+    height: 380px;
+    width: 100%;
+    background-color: rgb(164, 48, 241);
+}
+.picture{
+    height: 380px;
+    width: 100%;
+}
+.third{
+    height: 91px;
+    width: 100%;
+    background-color: white;
+}
+.one{
+    margin-left: 20px;
+}
+.one1{
+    margin-left: 65px;
+    margin-top: 15px;
+}
+.one p{
+    margin-left: 57px;
+}
+.fourth{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(21, 21, 24);
+}
